@@ -1,5 +1,5 @@
 # Hello World 👋
-✨ my name is Anup Shastri ✨
+✨ My name is Anup Shastri ✨
 💬I am Full Stack Developer from India.
 Currently I am working as Salesforce Developer ⚡
 
