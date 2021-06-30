@@ -15,6 +15,9 @@ Currently I am working as Salesforce Developer ⚡
                                                                 💻 Workspace Spec 🔝
 
 
+<img align="left" alt="os" src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img align="left" alt="intel" src= "https://img.shields.io/badge/Intel-Core_i7_10th_10750H-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+<img align="left" alt="graphics-card" src= "https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 
 <br>
 <br>
