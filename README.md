@@ -12,6 +12,13 @@ Currently I am working as Salesforce Developer ⚡
 <br>
 <br>
 
+                                                                💻 Workspace Spec 🔝
+
+
+
+<br>
+<br>
+
 # Expertise
 <img align="left" alt="salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" />
 <img align="left" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
