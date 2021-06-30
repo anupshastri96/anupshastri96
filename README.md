@@ -1,5 +1,5 @@
-# Hello World 👋
-✨ My name is Anup Shastri ✨
+# Hello World <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+My name is Anup Shastri
 💬I am Full Stack Developer from India.
 Currently I am working as Salesforce Developer ⚡
 
@@ -12,7 +12,7 @@ Currently I am working as Salesforce Developer ⚡
 <br>
 <br>
 
-                                                                💻 Workspace Spec 🔝
+#                                                                💻 Workspace Spec 🔝
 
 
 <img align="left" alt="os" src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
