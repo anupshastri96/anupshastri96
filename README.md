@@ -1,7 +1,7 @@
 # Hello World <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> My name is Anup Shastri👨‍💻
 
-⚡MSCS student at UNB💬I am Full Stack Developer from India.
-Currently I am working as Salesforce Developer ⚡
+⚡MSCS student at UNB💬I am a Full Stack Developer from India.
+I have 5 years of Experience as a Java and Salesforce Developer ⚡
 
 # Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anup-shastri-507220143)
