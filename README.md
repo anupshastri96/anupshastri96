@@ -27,7 +27,7 @@ I have 5 years of Experience as a Java and Salesforce Developer ⚡
 # Expertise
 <img align="left" alt="salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" />
 <img align="left" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img align="left" alt="selenium" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff" style="width:200px;" />
+<img align="left" alt="selenium" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff" style="width:100px;" />
 <img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 <img align="left" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
