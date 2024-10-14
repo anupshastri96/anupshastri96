@@ -35,9 +35,9 @@ I have 5 years of Experience as a Java and Salesforce Developer ⚡
 <img align="left" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
 <br>
-<img align="left" alt="three.js" src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff" />
-<img align="left" alt="node.js" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />
-<img align="left" alt="AWS S3" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white" />
+<img align="left" alt="three.js" src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff" style="width:110px;" />
+<img align="left" alt="node.js" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" style="width:110px;"/>
+<img align="left" alt="AWS S3" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white" style="width:110px;"/>
 <br>
 <br>
 
@@ -47,7 +47,7 @@ I have 5 years of Experience as a Java and Salesforce Developer ⚡
 <img align="left" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 <img align="left" alt="as" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 <img align="left" alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-<img align="left" alt="intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
+<img align="left" alt="intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" style="width:110px;"/>
 
 <br>
 <br>
