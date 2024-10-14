@@ -1,7 +1,6 @@
 # Hello World <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> My name is Anup Shastri👨‍💻
 
-⚡MSCS student at UNB💬I am a Full Stack Developer from India.
-I have 5 years of Experience as a Java and Salesforce Developer ⚡
+⚡MSCS student at UNB | 💬 Full Stack Developer with 5 years of experience as a Java and Salesforce Developer. I am currently expanding my expertise in 3D point cloud visualization using Potree, and preparing for Salesforce Data Cloud certification.⚡
 
 # Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anup-shastri-507220143)
@@ -34,7 +33,6 @@ I have 5 years of Experience as a Java and Salesforce Developer ⚡
 <img align="left" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <br>
-<img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" style="width:110px; margin-top:10px;" />
 <img align="left" alt="three.js" src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff" style="width:110px;" />
 <img align="left" alt="node.js" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" style="width:110px;"/>
 <img align="left" alt="AWS S3" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white" style="width:90px;"/>
