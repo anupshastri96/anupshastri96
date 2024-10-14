@@ -33,6 +33,8 @@
 <img align="left" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <br>
+<img align="left" alt="javascript" src="" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" style="width:110px; margin-top:10px;" />
 <img align="left" alt="three.js" src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff" style="width:110px;" />
 <img align="left" alt="node.js" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" style="width:110px;"/>
 <img align="left" alt="AWS S3" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white" style="width:90px;"/>
