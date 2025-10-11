@@ -1,6 +1,6 @@
 # Hello World <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> My name is Anup Shastri👨‍💻
 
-⚡MSCS student at UNB | 💬 Full Stack Developer with 5 years of experience as a Java and Salesforce Developer. I am currently expanding my expertise in 3D point cloud visualization using Potree, and preparing for Salesforce Data Cloud certification.⚡
+⚡Graduated from UNB in May 2025 with a Masters Degree in Computer Science | 💬 Full Stack Developer with 6+ years of experience as a Java and Salesforce Developer. I am currently expanding my expertise in Java Backend application and 3D point cloud visualisation using Potree.⚡
 
 # Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anup-shastri-507220143)
